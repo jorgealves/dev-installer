@@ -46,6 +46,45 @@ https://snapcraft.io/
 https://getstation.com/
 
 
+Cliq
+
+Clockify
+
+disk analyser
+
+keepass
+
+gparted
+
+kite
+
+kubenav
+
+filezilla
+
+lens
+
+monitor
+
+postman
+
+skype
+
+spotify
+
+stacer
+
+terminator
+tuxguitar
+waveform
+vim
+virtualbox
+UHK
+
+razer
+
+zoom
+
 
 #### DBeaver
 ```
